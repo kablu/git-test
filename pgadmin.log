@@ -1,5 +1,6 @@
 2020-09-25 10:13:34 ERROR  : Error connecting to the server: FATAL:  password authentication failed for user "postgres"
 
+
 2020-12-09 18:43:50 ERROR  : Error connecting to the server: FATAL:  password authentication failed for user "kong"
 
 2020-12-09 18:44:22 ERROR  : Error connecting to the server: FATAL:  password authentication failed for user "kong"
@@ -44,3 +45,4 @@
 	This probably means the server terminated abnormally
 	before or while processing the request.
 Kablu Mandal-------------------------------------------------------------
+Dev Branch - Commited--
