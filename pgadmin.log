@@ -10,7 +10,7 @@
 
 2020-12-09 18:49:08 ERROR  : Error connecting to the server: could not translate host name "kong-database" to address: Unknown host
 
-2020-12-09 18:50:26 ERROR  : Error connecting to the server: could not translate host name "kong-net" to address: Unknown host
+2020-12-09 1kablu Mandal ------------------------------8:50:26 ERROR  : Error connecting to the server: could not translate host name "kong-net" to address: Unknown host
 
 2021-07-24 06:40:25 ERROR  : Error connecting to the server: FATAL:  password authentication failed for user "kong"
 
