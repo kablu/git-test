@@ -1,0 +1,46 @@
+2020-09-25 10:13:34 ERROR  : Error connecting to the server: FATAL:  password authentication failed for user "postgres"
+
+2020-12-09 18:43:50 ERROR  : Error connecting to the server: FATAL:  password authentication failed for user "kong"
+
+2020-12-09 18:44:22 ERROR  : Error connecting to the server: FATAL:  password authentication failed for user "kong"
+
+2020-12-09 18:45:29 ERROR  : Error connecting to the server: FATAL:  password authentication failed for user "kong"
+
+2020-12-09 18:46:42 ERROR  : Error connecting to the server: FATAL:  password authentication failed for user "kong"
+
+2020-12-09 18:49:08 ERROR  : Error connecting to the server: could not translate host name "kong-database" to address: Unknown host
+
+2020-12-09 18:50:26 ERROR  : Error connecting to the server: could not translate host name "kong-net" to address: Unknown host
+
+2021-07-24 06:40:25 ERROR  : Error connecting to the server: FATAL:  password authentication failed for user "kong"
+
+2021-07-24 06:40:35 ERROR  : Error connecting to the server: FATAL:  password authentication failed for user "root"
+
+2021-07-24 06:40:46 ERROR  : Error connecting to the server: FATAL:  password authentication failed for user "admin"
+
+2021-08-26 15:45:00 ERROR  : Error connecting to the server: FATAL:  password authentication failed for user "postgres"
+
+2021-08-26 15:45:17 ERROR  : Error connecting to the server: FATAL:  password authentication failed for user "postgres"
+
+2021-08-26 15:45:34 ERROR  : Error connecting to the server: FATAL:  password authentication failed for user "postgres"
+
+2021-08-26 15:46:30 ERROR  : Error connecting to the server: FATAL:  password authentication failed for user "postgres"
+
+2021-08-31 15:54:45 ERROR  : Error connecting to the server: FATAL:  password authentication failed for user "root"
+
+2021-08-31 15:56:46 ERROR  : Error connecting to the server: server closed the connection unexpectedly
+	This probably means the server terminated abnormally
+	before or while processing the request.
+
+2021-08-31 16:05:59 ERROR  : Error connecting to the server: server closed the connection unexpectedly
+	This probably means the server terminated abnormally
+	before or while processing the request.
+
+2021-08-31 16:06:20 ERROR  : Error connecting to the server: server closed the connection unexpectedly
+	This probably means the server terminated abnormally
+	before or while processing the request.
+
+2021-08-31 16:10:55 ERROR  : Error connecting to the server: server closed the connection unexpectedly
+	This probably means the server terminated abnormally
+	before or while processing the request.
+
